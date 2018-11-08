@@ -1,4 +1,4 @@
-package phonedata
+package phoneregion
 
 import (
 	"bytes"
